@@ -1,3 +1,6 @@
+;;; Names: Ida Touray & Samiul Ahmed
+;;; Emails: Itouray000@citymail.cuny.edu & sahmed051@citymail.cuny.edu
+
 ;;; --------------------------------------------------------------------------------------------------------------
 ;;; PART 1
 
